@@ -1,0 +1,13 @@
+On peut utiliser ApprentiClavier avec ou sans lecteur d'écran.
+
+Les personnes non-voyantes peuvent utiliser les lecteurs d'écran Jaws ou NVDA. 
+
+Pour Jaws : 
+- Il est possible de télécharger une version de démonstration gratuite de 40 minutes. 
+La page de téléchargement est : https://support.freedomscientific.com/Downloads/JAWS
+- Les scripts sont automatiquement installés pendant l'installation de ApprentiClavier. Attention. Ils ne sont pas placés dans le dossier des paramètres personnels, mais dans le dossier des paramètres partagés, dont le chemin est C:\ProgramData\Freedom Scientific\JAWS\xxx\Settings\FRA, xxx étaznt la version de Jaws.
+
+Pour NVDA : 
+- Il est indispensable d'utiliser l'extension "ApprentiClavier" pour NVDA, à télécharger sur Internet, par exemple dans cette page:
+http://angouleme.avh.asso.fr/fichesinfo/apprenticlavier/index.htm
+- L'adresse du site de NVDA-France est https://www.nvda-fr.org/. Recherchez le lien "Téléchargements".

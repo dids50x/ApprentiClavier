@@ -1,0 +1,25 @@
+ApprentiClavier permet l'apprentissage du clavier standard avec pavé numérique.
+Cette version concerne le clavier AZERTY, français. 
+Elle est utilisable avec Windows XP, Vista, 7, 8 et 10.
+
+L'installation installe ApprentiClavier dans le dossier c:\ApprentiClavier, et place l'icône de lancement ApprentiClavier sur le bureau Windows.
+
+Elle crée les clés de registre et les fichiers utiles au lancement, et à la désinstallation classique par Windows.
+
+Si une ou plusieurs installations de Jaws sont détectées, des fichiers de scripts sont placés dans les sous-dossiers settings\fra correspondants.
+
+L'exécutable d'installation ouvre une fenêtre, où vous pourrez installer ou désinstaller le logiciel, obtenir de l'aide ou annuler l'installation.
+
+Dans ApprentiClavier, il y aura quatre touches essentielles :
+- Entrée pour CONTINUER,     
+- ESPACE pour RÉPÉTER,
+- F1 pour obtenir de l'aide, 
+- Échap pour revenir en arrière ou pour QUITTER.
+
+L'enseignant a la possiblité de personnaliser les leçons. Pour cela, il pourra consulter le fichier "info.txt", qui se trouve dans le sous-dossier c:\ApprentiClavier\Leçons\Personnalisé.
+
+Ce logiciel libre est disponible sous licence GNU/GPL, dont une copie se trouvera dans le fichier gpl.txt, avec une traduction française non officielle gpl-fr.txt.
+
+Bon apprentissage.
+
+L'auteur de ce logiciel est Hervé Béranger, herve.beranger@neuf.fr

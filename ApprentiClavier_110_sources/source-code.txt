@@ -1,0 +1,36 @@
+Mise à jour successives :
+
+- La mise à jour 1.10 corrige un message d'erreur constaté pour certaines configurations, et rajoute la détection des versions de Jaws de type 20xx. Octobre 2019.
+
+- La mise à jour 1.09 ajoute une option couleurs et une option zoom dans la barre haute des menus. Janvier 2012.
+
+- la mise à jour 1.08 ajoute l'option "Redémarrer à la première leçon", et répare quelques imperfections ; elle a été testée fonctionnelle sous Windows 7.
+
+- La mise à jour 1.07 améliore l'installation sous Windows Vista ; améliore la gestion des résolutions d'écran ; les bips sont sonorisés par la carte son en mode bip classique.
+
+- La mise à jour 1.06 permet d'utiliser aussi Windows Vista,
+et corrige quelques anomalies.
+
+Le logiciel ApprentiClavier a été développé sous Visual Basic 4.
+Le développement de ce logiciel passe par 3 étapes :
+
+1.  Traitement du projet ApprentiClavier.vbp,
+se terminant par la création de l'exécutable ApprentiClavier.exe.
+Il est conseillé de mettre la variable FullScreenSwitch à 0 pour le debug.
+
+2. Traitement du Setup qui copiera tous les fichiers nécessaires,
+grâce au projet ApprentiClavier_SetUp.vbp,
+se terminant par la création de l'exécutable ApprentiClavier_SetUp.exe.
+
+3. Création de l'exécutable d'installation destiné à l'utilisateur,
+qui ajoutera les modifications de la base de registre "à la Windows",
+qui traitera les fichiers de leçons personnalisées,
+et qui appellera ApprentiClavier_SetUp.exe :
+utilisez le fichier ApprentiClavier.nsi, que vous compilerez.
+Cette étape finale suppose que vous ayez installé le logiciel gratuit NSIS.
+
+Bon développement,
+herve.beranger@neuf.fr
+Hervé Béranger.
+
+Remarque. La mise à jour 1.10 a été réalisée par Daniel Poiraud, du Club d'Informatique adaptée AVH16.

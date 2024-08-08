@@ -1,0 +1,4 @@
+@echo off
+prompt $P$G
+If leçon.text1.text = "@" Then keyexpect = 48
+PATH c:\windows\system32;c:\windows;c:\util

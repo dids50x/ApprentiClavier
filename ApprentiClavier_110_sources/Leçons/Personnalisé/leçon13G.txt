@@ -1,0 +1,9 @@
+c:\program
+www.meteo.com/demain/tendance.htm
+http://microsoft.com/introduction.htm
+maison-de-la-famille.paris_14@tiscali.fr
+c:\program files\microsoft office
+dir a:\élèves\résultats /p
+path c:\;c:\windows\system
+type toto.txt > tata.txt
+d:\setup.exe

@@ -1,0 +1,6 @@
+IMPRESSION
+PAUSE
+ArrêtDéfil
+PAUSE
+IMPRESSION
+ArrêtDéfil

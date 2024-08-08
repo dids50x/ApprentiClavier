@@ -1,0 +1,13 @@
+Le sous-dossier Personnalisé contient les leçons personnalisées par l'enseignant.
+
+Par défaut, les leçons personnalisées sont identiques aux leçons standard.
+
+L'enseignant doit utiliser des fichiers textes, avec des noms et des contenus semblables à ceux qui sont créés par le lancement d'ApprentiClavier.
+
+La meilleure méthode consiste à modifier directement les fichiers du dossier c:\ApprentiClavier\Leçons\Personnalisé.
+
+Puis l'enseignant les teste en lançant ApprentiClavier, et en tapant, dans le menu principal, la commande Alt+O, Options, suivi de P Personnalisé.
+
+Si l'enseignant supprime un fichier texte personnalisé, une copie du fichier standard sera restaurée au prochain lancement d'ApprentiClavier.
+
+Enfin, pour sauvegarder, l'enseignant copie les fichiers modifiés, sans changer leur nom ni leur format texte, vers le disque ou le support d'installation, dans le dossier où se trouve l'exécutable d'installation.

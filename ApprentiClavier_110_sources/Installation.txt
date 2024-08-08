@@ -1,0 +1,9 @@
+L'exécutable d'installation installe ApprentiClavier dans le dossier C:\ApprentiClavier.
+Pour vocaliser son utilisation, il recherche les installations de Jaws dans les unités C:\ et D:\ seulement.
+
+Il crée des clés dans la base de registres, pour faciliter le lancement et la désinstallation de ApprentiClavier. Il sera possible de désinstaller ApprentiClavier soit par l'exécutable, soit par "Programmes et fonctionnalités" ou "Applications et fonctionnalités", selon la version de Windows.
+
+En cas de problème d'installation, vous pouvez essayer une installation manuelle :
+1. Copiez tout le dossier C:\ApprentiClavier obtenu sur un autre ordinateur vers une clé USB ou vers une autre unité, par exemple H:\ApprentiClavier.
+2. Copiez tous les fichiers du sous-dossier H:\ApprentiClavier\V-Jaws vers la destination usuelle des fichiers de configuration de Jaws (l'emplacement dépend des versions de Jaws).
+3. Créez une icône sur le bureau, qui lance H:\ApprentiClavier.exe.
